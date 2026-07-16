@@ -4,6 +4,7 @@
 [![SwiftBar](https://img.shields.io/badge/SwiftBar-plugin-0a84ff)](https://github.com/swiftbar/SwiftBar)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-required-d97757)](https://docs.anthropic.com/en/docs/claude-code/overview)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![test](https://github.com/shaowen-ye/file-inbox-assistant/actions/workflows/test.yml/badge.svg)](https://github.com/shaowen-ye/file-inbox-assistant/actions/workflows/test.yml)
 
 中文 | [English summary](#english-summary)
 
