@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+*.jsonl
+*.csv
+*.html
+.env
+config.sh
+rules.md
+test-output/
